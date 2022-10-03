@@ -1,3 +1,5 @@
+#HACKTOBERFEST-ACCEPTED
+
 #include <iostream>
 using namespace std;
 
