@@ -13,8 +13,13 @@
     Github Username: skinnyiam
     Github Username: mustakim79
     Github Username: MuhammadNoorani
+    Github Username: ShubhamGoyal7125
     Github Username: shantanu-crypto
     Github Username: dhrupad-sah
+    Github Username: avinishrao
+    Github Username: Muanra217
+    Github Username: jivandandapat
+    Github Username: Ritikraja07
     Github Username: Pramts
     Github Username: kushantha-sajith
     Github Username: avanishkhursange
@@ -22,4 +27,8 @@
     Github Username: nith1n
     Github Username: abhishere5
     Github Username: dhrupad-sah
+    Github Username: ghostgamer001
+    Github Username: felixstenian
+    Github Username: Samruddhiiii
+    Github Username: MadushaniR
     Github Username: Vidushirocks
