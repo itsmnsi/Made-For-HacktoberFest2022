@@ -1,0 +1,21 @@
+doctype doctype html
+html(lang="en")
+    head
+        meta(charset="UTF-8")
+        meta(http-equiv="X-UA-Compatible", content="IE=edge")
+        meta(name="viewport", content="width=device-width, initial-scale=1.0")
+        style 
+            include css/style.css
+
+        title Home Page
+    body
+- let n = 4; /* number of columns/rows, don't forget to adjust the CSS value */
+- let image = "https://assets.codepen.io/1480814/1015-800x800.jpg";
+
+h1 CSS Puzzle
+p drag & drop the piece into...<br> Well, you know how a puzzle works :)
+g(style=`--i:url(${image})`)
+  - for(let i = 0; i < n*n; i++)
+    z
+      a
+      b(draggable="true")
