@@ -9,16 +9,16 @@ def  fibonacci(n):
 		return fibonacci(n-2) + fibonacci(n - 1)
 
 
-numero = int(input("ingrese un numero entero  positivo: "))
+num = int(input("Enter a positive integer : "))
 
-if numero < 0:
-	print("Numero no valido")
+if num < 0:
+	print("Number is not valid")
 
 i = 0
 
-print("Secesion de fibonacci: ")
+print("fibonacci secession: ")
 
-for i in range(0, numero):
+for i in range(0, num):
 	print(fibonacci(i))
 
 # Crafted by Sagnik Sahoo © 2022
