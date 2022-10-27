@@ -42,6 +42,7 @@
     Github Username: luckey112
     Github Username: abhi7745
     Github Username: AmitBarman99
+    Github Username: Vaibhav-Khandelwal05
     Github Username: PoojaGuptan03
     Github Username: hps5901
     Github Username: anasgee
