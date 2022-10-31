@@ -9,7 +9,7 @@
     Github Username: Siddhesh2045
     Github Username: Adarsh-Saurabh
     Github Username: Sylar410
-    Github Username: BotSonu 
+    Github Username: BotSonu
     Github Username: Dulyaaa
     Github Username: skinnyiam
     Github Username: mustakim79
@@ -39,7 +39,7 @@
     Github Username: afif202
     Github Username: somyashri3
     Github Username: Vanshika-RJIT
-    Github Username: suryakantdubalgundeoutlook    
+    Github Username: suryakantdubalgundeoutlook
     Github Username: luckey112
     Github Username: abhi7745
     Github Username: AmitBarman99
@@ -55,5 +55,6 @@
     Github Username: 96vksingh
     Github Username: Siddhu2481
     Github Username: sathwik17
+    Github Username: iamtamodip
     Github Username: Sachin4219
     Github Username: urmil22
