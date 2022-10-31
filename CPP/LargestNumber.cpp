@@ -4,26 +4,18 @@ double maximum( double, double, double );
   
 int main()
 {
-    double number1;
-    double number2;
-    double number3;
+    int n ;
+    cout<<"Enter how many numbers you have: ";
+    cin>>n;
   
-    cout << "Enter three  numbers: ";
-    cin >> number1 >> number2 >> number3;
+    cout<<"Enter all the numbers now: ";
+    double num[n];
+    for(int i=0; i<n; i++)
+        cin>>num[i];
   
     
     cout << "Maximum is: "
-        << maximum( number1, number2, number3 ) << endl;
+        << max_element(num, num+n) << endl;
     return 0;  
 }
   
-double maximum( double x, double y, double z )
-{
-    double max = x;
-    if ( y > max )   
-        max = y;
-    if ( z > max )   
-        max = z;
-return max;      
-  
-} 
